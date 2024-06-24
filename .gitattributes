@@ -1,0 +1,8 @@
+* text=auto eol=lf
+
+*.h diff=cpp eol=lf
+*.c diff=cpp eol=lf
+*.cpp diff=cpp eol=lf
+*.cs diff=csharp eol=lf
+*.cginc eol=lf
+*.shader eol=lf
